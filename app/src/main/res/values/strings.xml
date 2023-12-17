@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android +body delection app</string>
+    <string name="hello_string">Hello</string>
+    <string name="start_button_title">Start</string>
+    <string name="second_fragment_string">Busnesslady</string>
+    <string name="second_fragment_button">YESSS</string>
+</resources>
